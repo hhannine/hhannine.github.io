@@ -14,8 +14,12 @@ I am a postdoctoral researcher at the University of Jyväskylä. I got my master
 
 My work and research
 ======
-Todo.
+Presently we are working on a novel construction of 'free geometry' on a Lorentzian manifold as a conformally invariant framework to consider inverse problems from general relativity and cosmology.
+
+Another collaborative effort with two mathematics postdocs is applying the inverse problems perspective to my previous work in Color Glass Condensate picture of particle scattering, where we perform indirect measurement of the so-called dipole amplitude in a parametrization-bias-free way.
 
 Background
 ======
-Todo a little history and background.
+I began my bachelor's studies at the University of Jyväskylä in 2012 in the accelerated study program of physics, where the first 1.5 years of basic courses were condensed into 3 months, which was quite an intense experience. Of course with my love of mathematics and overly ambitious peers in the programme, on top of the physics course we took the same analysis courses that mainline mathematics students started with. We were quite whelmed. I got my Bachelor's in 2.5 years, and moved on to the theoretically oriented Master's programme in physics, which I finished in 2017. 
+
+At this point I had a bit of a pause in momentum and a sense of uncertainty in my plans. Most of my close friends had moved from theoretical physics to pure mathamatics, which lead me to consider a PhD in mathematics at this point. I ended up following my heart and sticking with theoretical particle physics, and completed my thesis in 2021 after getting two children, with a third on the way. Following my defense I was able to stay for a year as a postdoc to finish two interesting projects in the particle physics group, after which I happily stumbled on the opportunity to join the Inverse Problems and mathematical physics group of Prof. Joonas Ilmavirta, which I believe has opened completely new horizons combining mathematics and theoretical physics.
