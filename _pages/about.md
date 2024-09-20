@@ -1,3 +1,5 @@
+![](qft-bound-proton.png)
+
 ---
 permalink: /
 title: "About"
