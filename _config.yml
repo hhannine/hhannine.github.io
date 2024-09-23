@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  inspirehep       : "https://inspirehep.net/authors/1810313"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
