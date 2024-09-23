@@ -4,6 +4,6 @@ excerpt: "Illustration depicting the proton as composed of quantum waves.<br/><i
 collection: portfolio
 ---
 
-![](images/qft-bound-proton.png)
-
 This is an inspirational illustration of the quantum structure of the proton I drew in Mathematica in the fall of 2023, when I began to think about quantum state tomography in particle physics.
+
+![](images/qft-bound-proton.png)
