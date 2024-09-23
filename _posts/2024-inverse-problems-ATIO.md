@@ -1,7 +1,7 @@
 ---
 title: 'Inverse Problems: the mathematical philosophy underlying the Abstract Theory of Indirect Observation and Inference'
 date: 2024-12-01
-permalink: /posts/2024/09/2024-inverse-problems-ATIO/
+permalink: /posts/2024/09/2024-inverse-problems-toioi/
 tags:
  - inverse problems
 #  - mathematical physics
