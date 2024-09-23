@@ -4,10 +4,7 @@ date: 2024-12-01
 permalink: /posts/2024/09/2024-inverse-problems-toioi/
 tags:
  - inverse problems
-#  - mathematical physics
-  - cool posts
-  - category1
-  - category2
+ - mathematical physics
 ---
 
 This is a test blog post about a novel(?) perspective about inverse problems in mathematics and fundamental physics.
