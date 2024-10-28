@@ -8,8 +8,7 @@ date: 2018-03-22
 location: "University of Regensburg, Germany"
 ---
 
-Abstract
----
+Abstract:
 
 We study quantitatively [1] the importance of the recently derived NLO corrections [2,3,4] to the
 DIS structure functions at small x in the dipole formalism. We show that these corrections can
@@ -21,6 +20,7 @@ that it is possible to obtain meaningful results for the DIS cross sections. We 
 work to combine these NLO DIS structure functions in the improved factorization scheme with the
 resummed/NLO BK evolution equation in order to do consistent NLO accuracy comparisons with
 HERA data.
+
 [1] B. Ducloué, H. Hänninen, T. Lappi, Y. Zhu, Phys.Rev. D96 (2017) no.9, 094017
 [2] G. Beuf, Phys.Rev. D94 (2016) no.5, 054016
 [3] G. Beuf, Phys.Rev. D96 (2017) no.7, 074033
