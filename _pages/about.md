@@ -18,6 +18,10 @@ Presently we are working on a novel construction of 'free geometry' on a Lorentz
 
 Another collaborative effort with two mathematics postdocs is applying the inverse problems perspective to my previous work in Color Glass Condensate picture of particle scattering, where we perform indirect measurement of the so-called dipole amplitude in a parametrization-bias-free way.
 
+Public outreach and scientific communication
+======
+I am highly interested in exploring the use of visual media in the communication of state-of-the-art research. I explore these ideas and topics in the Blog and Portfolio sections of these pages.
+
 Background
 ======
 I began my bachelor's studies at the University of Jyväskylä in 2012 in the accelerated study program of physics, where the first 1.5 years of basic courses were condensed into 3 months, which was quite an intense experience. Of course with my love of mathematics and overly ambitious peers in the programme, on top of the physics course we took the same analysis courses that mainline mathematics students started with. We were quite whelmed. I got my Bachelor's in 2.5 years, and moved on to the theoretically oriented Master's programme in physics, which I finished in 2017. 
