@@ -1,7 +1,7 @@
 ---
 title: "Deep Inelastic Scattering in the Dipole Picture at Next-to-Leading Order"
 collection: talks
-type: "Conference proceedings talk"
+type: "Contributed conference talk"
 permalink: /talks/2018-03-22-talk-poetic
 venue: "8th International Conference on Physics Opportunities at an ElecTron-Ion-Collider"
 date: 2018-03-22
