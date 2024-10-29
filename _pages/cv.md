@@ -28,7 +28,7 @@ Work experience
 * 2017--2021: Doctoral researcher
   * Department of Physics, University of Jyväskylä
   * Doctoral advisor: Prof. Tuomas Lappi
-  * About: Culmination of my PhD thesis was the [NLO accuracy fits to HERA data](https://hhannine.github.io/publication/2020-07-03-article-cgc-nlo-hera) in the Color Glass Condensate formalism.
+  * About: Culmination of my [PhD thesis](https://hhannine.github.io/publication/2021-10-29-thesis) was the [NLO accuracy fits to HERA data](https://hhannine.github.io/publication/2020-07-03-article-cgc-nlo-hera) in the Color Glass Condensate formalism.
 * Summer 2015: Summer intern
   * CERN
   * Topic: Testing of machine learning in particle collision simulations and analysis.
