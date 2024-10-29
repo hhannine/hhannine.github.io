@@ -19,16 +19,16 @@ Education
 Work experience
 ======
 * 2023--2025: Postdoctoral researcher
-  * Department of Mathematics, University of Jyväskylä
+  * Department of Mathematics and Statistics, University of Jyväskylä
   * Postdoc advisor: Prof. Joonas Ilmavirta
-  * About: 
+  * About: Work on a generalization of the Dix problem on a Lorentzian manifold with motivations in cosmology.
 * 2021--2022  Postdoctoral researcher
   * Department of Physics, University of Jyväskylä
-  * About: 
+  * About: We finished the work on the [NLO DDIS calculation](https://hhannine.github.io/publication/2022-06-27-article-ddis-nlo), and achieved a breakthrough in [Color Glass Condensate phenomenology with the inclusion of massive quarks](https://hhannine.github.io/publication/2022-11-07-article-nlo-dis-massive).
 * 2017--2021: Doctoral researcher
   * Department of Physics, University of Jyväskylä
   * Doctoral advisor: Prof. Tuomas Lappi
-  * About: 
+  * About: Culmination of my PhD thesis was the [NLO accuracy fits to HERA data](https://hhannine.github.io/publication/2020-07-03-article-cgc-nlo-hera) in the Color Glass Condensate formalism.
 * Summer 2015: Summer intern
   * CERN
   * Topic: Testing of machine learning in particle collision simulations and analysis.
