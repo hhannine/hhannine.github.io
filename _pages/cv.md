@@ -52,6 +52,7 @@ Skills
   * C & C++
   * Python
   * Bash / Shell-script
+  * git & GitHub: [github.com/hhannine](https://github.com/hhannine)
 * LaTeX
 
 Publications
