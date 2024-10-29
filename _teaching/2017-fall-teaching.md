@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant in Particle Physics"
+title: "Teaching assistant on Particle Physics"
 collection: teaching
 type: "Course assistant"
 permalink: /teaching/2017-fall-teaching

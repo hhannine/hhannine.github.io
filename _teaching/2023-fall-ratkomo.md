@@ -1,5 +1,5 @@
 ---
-title: "Open door exercise session guidance"
+title: "Open door exercise session guidance in 2023 and 2024"
 collection: teaching
 type: "Exercise generalist consultation"
 permalink: /teaching/2023-fall-ratkomo

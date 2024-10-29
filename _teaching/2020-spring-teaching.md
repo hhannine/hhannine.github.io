@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant in Quantum Mechanics 2"
+title: "Teaching assistant on Quantum Mechanics 2"
 collection: teaching
 type: "Course assistant"
 permalink: /teaching/2020-spring-teaching
