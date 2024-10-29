@@ -8,5 +8,5 @@ date: 2023-09-05
 location: "Jyväskylä, Finland"
 ---
 
-``Ratkomo'' is a session at JYU where students and freely come to do exercises in any course, and a teacher is available to answer any questions in a low friction environment.
+_Ratkomo_ is a session at JYU where students and freely come to do exercises in any course, and a teacher is available to answer any questions in a low friction environment.
 I have worked in Ratkomo in the fall semesters of 2023 and 2024.
