@@ -6,6 +6,7 @@ tags:
  - high-energy physics
  - 3D printing
  - DIY
+ - hobbies
 ---
 
 <img src='/images/finished-cable.jpg'>
