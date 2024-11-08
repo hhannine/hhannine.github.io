@@ -1,6 +1,6 @@
 ---
 title: 'How I spent 2 years to over-engineer a solution to a minor inconvenience'
-date: 2024-11-08
+date: 2024-11-15
 permalink: /posts/2024/11/superpaper
 tags:
  - programming
