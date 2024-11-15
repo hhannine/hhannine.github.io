@@ -10,6 +10,10 @@ tags:
 
 This is a test blog post about a novel(?) perspective about inverse problems in mathematics and fundamental physics.
 
+alternative title ideas:
+- Can one measure the parton distribution functions?
+- Is there a point at which inferred abstract quantities can be considered indirectly measured instead of 'just' fitting a model to data?
+
 Title1
 ======
 
