@@ -1,11 +1,10 @@
 ---
 title: 'How I spent 2 years to over-engineer a solution to a minor inconvenience'
-date: 2024-11-15
-permalink: /posts/2024/11/superpaper
+date: 2024-09-01
+permalink: /posts/2024/09/superpaper
 tags:
  - programming
  - python
- - hobbies
 ---
 
 <img src='/images/superpaper-drake-no-yes.jpg'>
