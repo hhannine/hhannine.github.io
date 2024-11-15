@@ -12,11 +12,13 @@ tags:
 A story of me wanting an application for GNU/Linux, so I learned Python to write it myself
 ======
 Early 2019 I decided to switch my home PC to Linux, however I couldn't find a good enough replacement for DisplayFusion, my multi-monitor tool of choice on Windows. I took a look at Nitrogen, Hydrapaper, and Syncwall which seem to be the common recommendations. However I wanted the tool to:
-    - span image across all monitors
-    - set different images on monitors
-    - do timed slideshow
-    - support KDE Plasma
-    - and a bonus would be: support hotkeys (or be scriptable to enable me to do this)
+
+- span image across all monitors
+- set different images on monitors
+- do timed slideshow
+- support KDE Plasma
+- and a bonus would be: support hotkeys (or be scriptable to enable me to do this)
+
 Unfortunately none of the popular options do all of the above; and as far as I can tell, none of them support spanning images on KDE Plasma. Supporting Plasma turned out to be a bit troublesome but doable, as we'll find out.
 
 So I quickly cobbled together a proof of concept to see if I could do it (multi image wallpaper at this point) and it did seem doable. Superpaper 1.0 was a command-line only utility that needed to be configured with preference files. Around this time I realized that since I'm building the tool from ground up, I can fix an issue that I had had with multi-monitor wallpaper spanning for a long time. You see my two displays have always been slightly different size and resolution. This means that their pixel sizes are not equal and this then means that the wallpaper image is not scaled identically on the displays, and this breaks the alignment of the span. A new feature to implement! Now I wanted to replace DisplayFusion on Windows as well.
