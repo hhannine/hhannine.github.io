@@ -7,7 +7,7 @@ tags:
  - python
 ---
 
-<img src='/images/superpaper-drake-no-yes.jpg'>
+<img src='/images/superpaper-no-yes-mark.jpg'>
 
 A story of me wanting an application for GNU/Linux, so I learned Python to write it myself
 ======
