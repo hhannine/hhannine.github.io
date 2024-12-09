@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2024-12-13-talk-inverse-days-2024
 venue: "Inverse Days 2024"
-date: 2024-12-13
+date: 2024-12-09
 location: "Lapland Hotel Oulu, Kirkkokatu 3, 90100 Oulu, Finland"
 ---
 
