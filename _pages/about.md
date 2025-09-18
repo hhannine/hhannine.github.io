@@ -13,11 +13,9 @@ redirect_from:
 
 I am a postdoctoral researcher at the University of Jyväskylä. I got my master's degree in theoretical physics in 2017, and doctor's degree in theoretical particle physics in 2021. Presently I am working on inverse problems, which I would describe as 'the abstract theory of indirect measurements', and which is a powerful perspective to answer physically motivated questions using mathematics.
 
-My work and research
+Research
 ======
-Presently we are working on a novel construction of 'free geometry' on a Lorentzian manifold as a conformally invariant framework to consider inverse problems from general relativity and cosmology.
-
-Another collaborative effort with two mathematics postdocs is applying the inverse problems perspective to my previous work in Color Glass Condensate picture of particle scattering, where we perform indirect measurement of the so-called dipole amplitude in a parametrization-bias-free way.
+My main focus is on applying the inverse problems perspective to Color Glass Condensate picture of deep inelastic scattering, where we develop mathematical methods for the indirect reconstruction of the so-called dipole amplitude in a parametrization-bias-free way from reduced cross section data.
 
 Public outreach and scientific communication
 ======
