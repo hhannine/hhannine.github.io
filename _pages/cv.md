@@ -18,10 +18,10 @@ Education
 
 Work experience
 ======
-* 2023--2025: Postdoctoral researcher
+* 2023--present: Postdoctoral researcher
   * Department of Mathematics and Statistics, University of Jyväskylä
   * Postdoc advisor: Prof. Joonas Ilmavirta
-  * About: Work on a generalization of the Dix problem on a Lorentzian manifold with motivations in cosmology.
+  * About: We are collaborating on the mathematical theory foundations of the reconstruction approach to the dipole amplitude inference problem.
 * 2021--2022  Postdoctoral researcher
   * Department of Physics, University of Jyväskylä
   * About: We finished the work on the [NLO DDIS calculation](https://hhannine.github.io/publication/2022-06-27-article-ddis-nlo), and achieved a breakthrough in [Color Glass Condensate phenomenology with the inclusion of massive quarks](https://hhannine.github.io/publication/2022-11-07-article-nlo-dis-massive).
@@ -29,7 +29,7 @@ Work experience
   * Department of Physics, University of Jyväskylä
   * Doctoral advisor: Prof. Tuomas Lappi
   * About: Culmination of my [PhD thesis](https://hhannine.github.io/publication/2021-10-29-thesis) was the [NLO accuracy fits to HERA data](https://hhannine.github.io/publication/2020-07-03-article-cgc-nlo-hera) in the Color Glass Condensate formalism.
-* Summer 2015: Summer intern
+* Summer 2015: Scientific intern
   * CERN
   * Topic: Testing of machine learning in particle collision simulations and analysis.
   * Supervisor: Dr. Sami Räsänen
@@ -38,19 +38,22 @@ Work experience
 Skills
 ======
 * Quantum Field Theory
-  * Lepton-proton Deep Inelastic Scattering in the Dipole Picture at leading and next-to-leading order
-  * Color Glass Condensate formalism calculations on the light-cone
-  * Diffractive Deep Inelastic Scattering
+  * Lepton-proton Deep Inelastic Scattering in the Dipole Picture at leading and next-to-leading order.
+  * Color Glass Condensate formalism calculations on the light-cone.
+  * Diffractive Deep Inelastic Scattering.
   * Fourier transformations of light-cone Fock state wavefunctions.
+  * Formulation of the reconstruction approach to the recovery of the dipole amplitude from DIS reduced cross section data.
 * Computational Physics
   * Extensive experience in scientific computation
   * High performance and cloud computing
+  * Lead development of research software used in peer reviewed articles: [inversedipole](https://github.com/hhannine/inversedipole), [nlobkfitter](https://github.com/hejajama/nlobkfitter).
 * Inverse Problems
   * Construction of mathematical inverse problems questions in high-energy physics: indirect measurement of the dipole amplitude in the Dipole Picture.
-  * Dix problem in cosmology: near-light like geodesics on a Lorentz manifold
+  * Inverse problems theory on a seismology problem on a manifold; Development of computational algebra software.
 * Programming
   * C & C++
   * Python
+  * Matlab
   * Bash / Shell-script
   * git & GitHub: [github.com/hhannine](https://github.com/hhannine)
 * LaTeX
@@ -73,6 +76,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Service and leadership
+Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Supervision of an ongoing undergraduate thesis (JYU, Nov. 2025--)
