@@ -15,6 +15,7 @@ redirect_from:
 I develop mathematical methods for extracting the structure of strongly interacting matter from experimental data. My research combines inverse problems, uncertainty quantification, and quantum chromodynamics (QCD), with a particular focus on parameterization-independent reconstruction of hadronic structure from scattering measurements.
 
 Current position: Postdoctoral Researcher, University of Jyväskylä
+
 Research areas: Inverse Problems • Mathematical Physics • Quantum Chromodynamics • Data Reconstruction • Uncertainty Quantification
 
 
@@ -52,10 +53,10 @@ Combining rigorous mathematical analysis with computational methods to address c
 ### Mathematical inverse problem for the world data inference of the parton distribution functions of the proton
 <p><em>Under review</em>, 2026</p>
 
-<p><strong>Contribution.</strong><br>
+<p><strong>Contribution.</strong>
 Constructed a mathematical inverse-problem formulation for the extraction of the proton PDFs without a fitting ansatz from DIS world data.</p>
  
-<p><strong>Significance.</strong><br>
+<p><strong>Significance.</strong>
 Opens a path towards parametrization-bias-free extraction of the parton distribution functions of the proton.</p>
  
 [arXiv](https://arxiv.org/abs/2609.11896)
