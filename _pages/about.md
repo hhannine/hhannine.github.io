@@ -52,25 +52,19 @@ Combining rigorous mathematical analysis with computational methods to address c
  
 ### Mathematical inverse problem for the world data inference of the parton distribution functions of the proton
 <p><em>Under review</em>, 2026</p>
-
 <p><strong>Contribution.</strong>
 Constructed a mathematical inverse-problem formulation for the extraction of the proton PDFs without a fitting ansatz from DIS world data.</p>
- 
 <p><strong>Significance.</strong>
 Opens a path towards parametrization-bias-free extraction of the parton distribution functions of the proton.</p>
- 
 [arXiv](https://arxiv.org/abs/2609.11896)
 
  
 ### Reconstruction of the Dipole Amplitude in the Dipole Picture as a mathematical Inverse Problem
 <p><em>Phys. Rev. D</em>, 2025</p>
- 
-<p><strong>Contribution.</strong><br>
+<p><strong>Contribution.</strong>
 Introduced an inverse-problem formulation for the reconstruction of the dipole amplitude from deep inelastic scattering data.</p>
-
-<p><strong>Significance.</strong><br>
+<p><strong>Significance.</strong>
 Demonstrated how mathematical reconstruction techniques can reduce parameterization bias in small-x QCD analyses.</p>
- 
 [Paper](https://doi.org/10.1103/7fhf-7fp4) [arXiv](https://arxiv.org/abs/2509.05005)
 
 
